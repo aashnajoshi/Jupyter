@@ -22,6 +22,14 @@ pipenv shell
 jupyter notebook
 ```
 
+### If you want to have an interactive shell-like session in your .py file (In VS-Code):
+Make sure you have two extensions installed: Python and Jupyter
+```bash
+# %%
+print("This is the first code cell.")
+```
+with every `# %%` a new cell starts, and you can run debug them accordingly.
+
 ## Description about various files:
 - **Jupyter_Basics.ipynb:** An introduction to Jupyter notebooks, demonstrating basic features and functionalities.
 - **ML_Basics.ipynb:** Covers fundamental machine learning concepts, including algorithms and evaluation metrics.
