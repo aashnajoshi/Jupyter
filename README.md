@@ -23,7 +23,7 @@ jupyter notebook
 ```
 
 ### If you want to have an interactive shell-like session in your .py file (In VS-Code):
-Make sure you have two extensions installed: Python and Jupyter
+Make sure you have two extensions installed: **Python** and **Jupyter**
 ```bash
 # %%
 print("This is the first code cell.")
